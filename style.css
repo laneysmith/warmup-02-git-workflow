@@ -2,3 +2,7 @@ body {
   font-size: 24pt;
   background-color: blue;
 }
+
+#pic {
+  display: none;
+}
